@@ -9,4 +9,5 @@
 
 ## Conturbitors
 
-- (Ari)[https://github.com/rimeth]
+- [Ari](https://github.com/rimeth)
+- [Pyt3(SOULS)](https://github.com/soulsie)
