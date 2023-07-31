@@ -7,7 +7,3 @@
 - Is the service gonna be free ?
   **Well it's not gonna be free or paid because it's gonna be an invite passed bio service and you can get your invite for free**
 
-## Conturbitors
-
-- [Ari](https://github.com/rimeth)
-- [Pyt3(SOULS)](https://github.com/soulsie)
