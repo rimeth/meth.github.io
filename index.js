@@ -18,7 +18,7 @@
                                                                          @%    
                                                                        :"      
 ***************************************************/
-
+// This is open source because theres nothing special + i already used it in multiple repos before
 (
   function()
 {
